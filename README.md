@@ -24,12 +24,14 @@
    ```
 
 2. **设置环境变量**
+
    在 `.env` 文件中添加你的 OpenAI API Key 和缘分居 API Key：
    ```
    OPENAI_API_KEY=your_openai_api_key
    YUANFENJU_API_KEY=your_yuanfenju_api_key
    ```
-3. **运行代码**
+4. **运行代码**
+
    打开 `main.ipynb` 文件，运行代码即可体验功能。
 
 
