@@ -1,5 +1,5 @@
 # 基于 Agent 的有趣 Function Calling 调用
-这是一个基于 Agent 和 OpenAI Function Calling 的有趣工具，结合了缘分居的 API，实现了星座配对、生日配对、生肖配对、塔罗牌占卜等功能。通过 OpenAI 的 GPT-3.5 模型，能够智能地调用不同的工具函数，完成用户请求，并返回有趣的结果。
+嘿嘿~ 这是一个基于 Agent 和 OpenAI Function Calling 的有趣工具，结合了缘分居的 API，实现了星座配对、生日配对、生肖配对、塔罗牌占卜等功能的小项目实验~ 通过 OpenAI 的 GPT-3.5 模型，能够智能地调用不同的工具函数，完成用户请求，并返回有趣的结果！
 
 ## 项目亮点
 - **Function Calling 的强大能力**：通过 OpenAI 的 Function Calling 功能，能够根据用户输入，动态选择并调用合适的工具函数（如星座配对、生肖配对等），实现智能化的任务处理。
